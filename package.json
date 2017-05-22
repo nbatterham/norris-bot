@@ -1,0 +1,11 @@
+{
+  "name": "norris-bot",
+  "version": "1.0.0",
+  "description": "chuck norris chat bot",
+  "main": "lib/norrisbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Batterham",
+  "license": "ISC"
+}
