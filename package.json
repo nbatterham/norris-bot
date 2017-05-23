@@ -9,7 +9,7 @@
   "author": "Nathan Batterham",
   "license": "ISC",
   "dependencies": {
-    "slackbot": "0.0.2",
+    "slackbots": "^0.3.0",
     "sqlite3": "^3.1.8"
   }
 }
